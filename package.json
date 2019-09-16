@@ -1,0 +1,17 @@
+{
+    "name": "bruteLogin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "Sanskar Agarwal",
+    "license": "MIT",
+    "dependencies": {
+        "request": "^2.88.0",
+        "xml2js": "^0.4.22"
+    }
+}
